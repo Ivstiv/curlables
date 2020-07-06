@@ -4,7 +4,7 @@
 
 ## Description
 Pretty simple to use tool to obtain various information about your network as observed from an outside party. Go to their 
-[website](https://ifconfig.co/) for full documentation and features.
+[website](https://ifconfig.co/) for full documentation and features. If it happens to be inaccessible you could try using [ifconfig.me](ifconfig-me.html) instead as it provides similar functionality.
 
 ## Usage
 The most common use case would be to check your public ip:
