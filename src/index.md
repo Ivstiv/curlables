@@ -10,7 +10,8 @@ So what is a curlable? Well, the term might not actually exist but I can't seem 
 
 ## A list of them: 
 - [Check the weather with **wttr.in**](wttr-in.html)
-- [Named after the famous net-tools utility - **ifconfig.co**](test_article.html)
+- [Named after the famous net-tools utility - **ifconfig.co**](ifconfig-co.html)
+- [The slower and older sibling **ifconfig.me**](test_article.html)
 - [**icanhazip.com** is a bundle of useful utilities](test_article.html)
 - [Get coffee, **getnews.tech** straight from your shell](test_article.html)
 - [Track crypto rates - **rate.sx**](test_article.html)

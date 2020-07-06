@@ -14,4 +14,6 @@ Compile the project:
 rm -rf dst && mkdir dst && bin/ssg5 src dst 'Curlable Web Apps' 'https://curlables.ivstiv.dev'
 ```
 
-For more advanced usage consult the [ssg's manual](https://www.romanzolotarev.com/ssg.html).
+## Links
+- For more advanced usage consult the [ssg's manual](https://www.romanzolotarev.com/ssg.html).
+- [Markdown Syntax Guide](https://www.markdownguide.org/basic-syntax)
