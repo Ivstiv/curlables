@@ -1,0 +1,11 @@
+server {
+    listen 80;
+    server_name curlables.ivstiv.dev;
+    root /var/www/curlables.ivstiv.dev/curlables/dst;
+    
+    # Log files for Debugging
+    access_log /var/log/nginx/curlables.ivstiv.dev-access.log;
+    error_log /var/log/nginx/curlables.ivstiv.dev-error.log;
+
+    index index.html;
+}

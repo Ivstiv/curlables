@@ -26,5 +26,5 @@ So what is a curlable? Well, the term might not actually exist but I can't seem 
 - [Get a temporary email inbox with a single command: **emailpipe.sh**](emailpipe.html)
 
 ## Other interesting services that you can access from the command line
-- [Starwars Asciimation (telnet)](starwars.html)
+- [awesome-console-services](https://github.com/chubin/awesome-console-services)
 - [The Bofh Excuse Server (telnet)](bofh.html)
